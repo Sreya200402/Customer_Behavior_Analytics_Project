@@ -1,22 +1,26 @@
 # Customer Behavior Analytics Project – SQL, Python & Power BI
+🚀 End-to-end data analytics project focused on transforming customer behavior data into actionable business insights and revenue optimization strategies.
 
 ## 🎯 Business Problem
 
-A retail company wants to understand customer shopping behavior to improve sales, retention, and customer experience.
-
-This project answers:
-> How can customer data be used to identify trends, improve engagement, and optimize business strategies?
+A retail company aims to leverage customer shopping data to better understand purchasing behavior, improve customer retention, and optimize revenue strategies.
 
 ---
 
 ## 📊 Project Overview
 
-This is an end-to-end data analytics project covering the full workflow:
+This project analyzes customer shopping behavior to uncover revenue drivers, customer segments, and operational risks such as discount dependency. 
 
-- Data Cleaning & Preparation (Python)
-- Data Storage & Analysis (SQL Server / MYSQL WORKBENCH)
-- Data Visualization (Power BI)
-- Business Insights & Reporting
+The goal is to translate data into actionable business strategies that improve retention, increase revenue, and optimize pricing decisions.
+
+---
+
+## 🧠 What This Project Demonstrates
+
+- End-to-end data analysis workflow  
+- Business-oriented thinking beyond technical analysis  
+- Ability to translate data into actionable insights  
+- Strong data visualization and storytelling skills  
 
 ---
 
@@ -65,14 +69,28 @@ This is an end-to-end data analytics project covering the full workflow:
 
 ---
 
-## 💡 Key Insights
+## 📊 Dashboard Preview
 
-- Female customers generated higher revenue compared to male customers  
-- Express shipping users showed higher purchase value  
-- Loyal customers contributed significantly to repeat revenue  
-- Certain product categories depend heavily on discounts  
+![Dashboard](Dashboard/pictures/dashboard.png)
 
 ---
+
+## 💡 Key Business Insights
+
+- Loyal customers drive the majority of revenue, highlighting the importance of retention strategies  
+- Subscriber base is relatively low (~24%) but shows strong growth potential  
+- ~40% of orders involve discounts, indicating margin risk and dependency on promotions  
+- Express shipping users demonstrate higher purchase value, suggesting premium service preference  
+
+---
+
+## 🚀 Business Impact
+
+- Increasing subscription adoption by 10% can drive ~12–15% revenue growth  
+- Reducing discount dependency can improve profit margins  
+- Strengthening loyalty programs can increase repeat purchases and customer lifetime value
+
+---  
 
 ## 📁 Project Files
 
