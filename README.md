@@ -71,7 +71,7 @@ The goal is to translate data into actionable business strategies that improve r
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/dashboard%20screenshot.png)
+![Dashboard](dashboard/Dashboard%20Screenshot.png)
 
 ---
 
